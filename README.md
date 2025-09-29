@@ -5,8 +5,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=josepo616" alt="josepo616" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/unknown_6_1_6" target="blank"><img src="https://img.shields.io/twitter/follow/unknown_6_1_6?logo=twitter&style=for-the-badge" alt="unknown_6_1_6" /></a> </p>
-
 - 🔭 I’m currently working on **Ravn iOS Nerdery**
 
 - 🌱 I’m currently learning **Swift**
