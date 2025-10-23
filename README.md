@@ -15,7 +15,7 @@
 
 - 💬 Ask me about **Java, C#, Cyber-security, Servers**
 
-- 📫 How to reach me **josemejia61976751@gmail.com**
+- 📫 How to reach me **josealvarezmejia.it@gmail.com**
   
 - ⚡ Fun fact **Linux doesn’t have viruses, just users with root privileges making risky moves**
 
