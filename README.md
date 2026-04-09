@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=josepo616" alt="josepo616" /></a> </p>
 
-- 🔭 I’m currently working on **Ravn iOS Nerdery**
+- 🔭 I’m currently working on **Ravn as iOS Engineer**
 
-- 🌱 I’m currently learning **Swift**
+- 🌱 I’m currently learning **AI skills**
 
 - 🤝 I’m looking for help with **Any related with sowftware issues**
 
